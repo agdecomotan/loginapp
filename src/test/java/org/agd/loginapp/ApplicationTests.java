@@ -15,11 +15,8 @@ class ApplicationTests {
 	@Autowired
 	private TestRestTemplate restTemplate;
 
-	@LocalServerPort
-	private int port;
-
 	private String getRootUrl() {
-		return "http://localhost:" + port;
+		return "https://pure-chamber-49287.herokuapp.com/";
 	}
 
 	@Test
