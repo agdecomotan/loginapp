@@ -1,4 +1,4 @@
-<h1>Java REST API Exam for ISR</h1>
+<h1>Java REST API</h1>
 
 
 <b>Get unique login dates:</b>
